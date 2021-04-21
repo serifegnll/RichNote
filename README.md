@@ -9,6 +9,6 @@
 ### bulma işlemi: 
 ![..](https://github.com/serifegnll/RichNote/blob/main/richNote_ss/bul.png)
 
-*diğer işlemlere ait fotoğrafları [richNote_ss](https://github.com/serifegnll/RichNote/tree/main/richNote_ss).kısmından bulabilirsiniz*
+### *diğer işlemlere ait fotoğrafları [richNote_ss](https://github.com/serifegnll/RichNote/tree/main/richNote_ss) kısmından bulabilirsiniz*
 
 
